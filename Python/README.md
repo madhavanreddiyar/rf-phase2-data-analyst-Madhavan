@@ -14,6 +14,7 @@ city – City of residence
 email – Customer email address
 
 ⚙️ What the Python Script Does
+
 1️⃣ Data Loading
 Reads dataset using pandas.read_csv()
 
