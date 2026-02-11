@@ -21,6 +21,7 @@ Detect peak sales hours and high-performing weekdays
 
 Total Sales
 
+
 Total Orders
 
 Average Order Value
